@@ -110,6 +110,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [android-malware-analysis](https://github.com/mwleeds/android-malware-analysis): This project seeks to apply machine learning algorithms to Android malware classification.
 
 ## Browser <a name="browsercode"></a>
+* [tfjs-rps](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb): Training Models in TensorFlow.js
 * [tfjs-models](https://github.com/tensorflow/tfjs-models): Pretrained models for TensorFlow.js
 * [magenta-js](https://github.com/tensorflow/magenta-js): Music and Art Generation with Machine Intelligence in the Browser
 * [tfjs-node](https://github.com/tensorflow/tfjs-node): TensorFlow powered JavaScript library for training and deploying ML models on Node.js
