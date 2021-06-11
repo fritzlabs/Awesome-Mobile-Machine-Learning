@@ -199,6 +199,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [SnapML in Lens Studio—Apply AR Effects to Segmented Objects](https://heartbeat.fritz.ai/snapml-in-lens-studio-apply-ar-effects-to-segmented-objects-a7b3970f40b6?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Create Lenses with SnapML & Fritz.ai (YouTube)](https://www.youtube.com/watch?v=JfahgaprJy8&feature=youtu.be)
 - [Custom Face Mask Segmentation for Lens Studio with Fritz AI (Video + Transcript)](https://heartbeat.fritz.ai/custom-face-mask-segmentation-for-lens-studio-with-fritz-ai-video-transcript-609d17351ec?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Segmentation Textures in Lens Studio](https://heartbeat.fritz.ai/segmentation-textures-in-lens-studio-67616a82218autm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
 
 ### Style Transfer
 
@@ -238,14 +240,26 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Tween Manager in Lens Studio](https://heartbeat.fritz.ai/tween-manager-in-lens-studio-fd936d9274b8utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Working with Particles in Lens Studio](https://heartbeat.fritz.ai/working-with-particles-in-lens-studio-fedada4cb3b7utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Lens Studio Material Editor](https://heartbeat.fritz.ai/lens-studio-material-editor-5d6260628f3futm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to Add Audio in Lens and Publish Using Lens Studio](https://heartbeat.fritz.ai/how-to-add-audio-in-lens-and-publish-using-lens-studio-cb786f318bdfutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Add Hair Simulation Effect Using Lens Studio](https://heartbeat.fritz.ai/add-hair-simulation-effect-using-lens-studio-5349311f9b3eutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Lens Studio Basics — LUTs](https://heartbeat.fritz.ai/lens-studio-basics-l-bcdbcb6f7fe4utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Working with Face Mesh in Lens Studio](https://heartbeat.fritz.ai/working-with-face-mesh-in-lens-studio-7d95658df97futm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Build a Snapchat Lens to Welcome New Texans Using Fritz AI](https://heartbeat.fritz.ai/built-a-snapchat-lens-to-welcome-new-texans-using-fritz-ai-bffb47f0fb51utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Vertex Animation in Lens Studio for Snapchat Lenses](https://heartbeat.fritz.ai/vertex-animation-in-lens-studio-6e051ef37fe6utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+
+
 
 ## SparkAR <a name="sparkartutorials"></a>
 
 - [Face Changing Effect In Spark AR](https://heartbeat.fritz.ai/face-changing-effect-in-spark-ar-2e4fc88e9e56utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [How to Replace Backgrounds in Spark AR Studio](https://heartbeat.fritz.ai/how-to-replace-backgrounds-in-facebook-ar-studio-9a2864313eaautm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [How to Create a Face Tracking Effect in Facebook’s AR Studio](https://heartbeat.fritz.ai/how-to-create-a-face-tracking-effect-in-facebooks-ar-studio-883a98eb531autm_source=github&utm_campaign=awesome_mobile_machine_learning)
-
-
+- [2D Texture Animations in Facebook’s Spark AR Studio](https://heartbeat.fritz.ai/2d-texture-animations-in-facebooks-spark-ar-studio-d509a76cb148utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Understanding the Simulator in Spark AR Studio](https://heartbeat.fritz.ai/understanding-the-simulator-in-spark-ar-studio-108c7b5458b6utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Create Split Face Filter using Spark AR Studio](https://heartbeat.fritz.ai/create-split-face-filter-using-spark-ar-studio-575d61da45a5utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How To Make And Share AR Effects] (https://heartbeat.fritz.ai/how-to-make-and-share-ar-effects-ee4abbbfd106utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to Create Hair Segmentation Effects Using Spark AR Studio](https://heartbeat.fritz.ai/how-to-create-hair-segmentation-effects-using-spark-ar-studio-16def99fd479utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- 
 
 
 ## iOS <a name="iostutorials"></a>
@@ -354,7 +368,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Compute Image Similarity Using Computer Vision in iOS](https://heartbeat.fritz.ai/compute-image-similarity-using-computer-vision-in-ios-75b4dcdd095f??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Introduction to XGBoost with an Implementation in an iOS Application](https://heartbeat.fritz.ai/introduction-to-xgboost-with-an-implementation-in-an-ios-application-cdfaa8f9930b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Implement Depth Estimation on iOS Using a FCRN Model](https://heartbeat.fritz.ai/implement-depth-estimation-on-ios-using-a-fcrn-model-7208c4f7c4d2?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
-
+- [Real-Time Breath Tracking via AirPods](https://heartbeat.fritz.ai/real-time-breath-tracking-via-airpods-1fb6b8274c22-utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
@@ -404,6 +418,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Recognizing Speech Locally on an iOS Device Using the Speech Framework](https://www.andyibanez.com/posts/speech-recognition-sfspeechrecognizer/)
 - [Powering Accessibility on iOS with SwiftUI and Machine Learning](https://heartbeat.fritz.ai/powering-accessibility-on-ios-with-swiftui-and-machine-learning-292e2e71c40d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
+- 
 ### Model Conversion/Deployment/Management
 
 - [Reverse Engineering Core ML](https://heartbeat.fritz.ai/reverse-engineering-core-ml-6d6f1c2bdab0?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
@@ -548,6 +563,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Scan Barcodes on Android Using the Power of ML Kit and Fotoapparat](https://heartbeat.fritz.ai/mlkit-barcodes-scanning-with-fotoapparat-and-ml-kit-in-android-867c727b13b3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [A Definitive Guide for Audio Processing in Android with TensorFlow Lite Models](https://heartbeat.fritz.ai/a-definitive-guide-for-audio-processing-in-android-with-tensorflow-lite-models-d90de896f0c4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Q-Learning With The Frozen Lake Environment In Android](https://heartbeat.fritz.ai/q-learning-with-the-frozen-lake-environment-in-android-937cf48dcc52?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Implementing The Gaussian Naïve Bayes Classifier In Android](https://heartbeat.fritz.ai/implementing-the-gaussian-naive-bayes-classifier-in-android-67746b69d1b1utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
