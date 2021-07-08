@@ -246,6 +246,11 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Working with Face Mesh in Lens Studio](https://heartbeat.fritz.ai/working-with-face-mesh-in-lens-studio-7d95658df97futm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Build a Snapchat Lens to Welcome New Texans Using Fritz AI](https://heartbeat.fritz.ai/built-a-snapchat-lens-to-welcome-new-texans-using-fritz-ai-bffb47f0fb51utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Vertex Animation in Lens Studio for Snapchat Lenses](https://heartbeat.fritz.ai/vertex-animation-in-lens-studio-6e051ef37fe6utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Creating a Face Inset Effect in Lens Studio](https://heartbeat.fritz.ai/creating-face-inset-effect-in-lens-studio-3a2a26e9292dutm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Lens Studio Basics — Importing External Audio](https://heartbeat.fritz.ai/lens-studio-basics-importing-external-audio-3db8f241e9utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Creating a Marker Tracking Lens in Lens Studio](https://heartbeat.fritz.ai/creating-a-marker-tracking-lens-in-lens-studio-ff5e58a65eeautm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Adding Audio Effects in Lens Studio](https://heartbeat.fritz.ai/adding-audio-effects-in-lens-studio-71664d8260a3utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Concepts Behind Material Editor in Lens Studio](https://heartbeat.fritz.ai/concepts-behind-material-editor-in-lens-studio-8c840d4bacdcutm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 
 
@@ -259,6 +264,12 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Create Split Face Filter using Spark AR Studio](https://heartbeat.fritz.ai/create-split-face-filter-using-spark-ar-studio-575d61da45a5utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [How To Make And Share AR Effects] (https://heartbeat.fritz.ai/how-to-make-and-share-ar-effects-ee4abbbfd106utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [How to Create Hair Segmentation Effects Using Spark AR Studio](https://heartbeat.fritz.ai/how-to-create-hair-segmentation-effects-using-spark-ar-studio-16def99fd479utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [2D Texture Animations in Facebook’s Spark AR Studio](https://heartbeat.fritz.ai/2d-texture-animations-in-facebooks-spark-ar-studio-d509a76cb148utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Create Your First Face Reference Effect Using Spark AR Studio](https://heartbeat.fritz.ai/create-your-first-face-reference-effect-using-spark-ar-d3f62a392440utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to Create an Effect with Dynamic Text in Spark AR Studio](https://heartbeat.fritz.ai/how-to-create-an-effect-with-dynamic-text-in-spark-ar-studio-4f8fca65b0d0utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Using 2D Objects in Spark AR](https://heartbeat.fritz.ai/using-2d-objects-in-spark-ar-dacb8d8c3bf3utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Create an AR Filter to Make Background Blur Using Spark AR Studio](https://heartbeat.fritz.ai/create-ar-filter-to-make-background-blur-using-spark-ar-studio-189fdf3f138butm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Create and Publish Your First Instagram AR Filter Using Spark AR Studio](https://heartbeat.fritz.ai/create-and-publish-your-first-instagram-ar-filter-using-spark-ar-studio-eab0a3ebb5a3utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - 
 
 
@@ -506,6 +517,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Image Classification on Mobile with Flutter, TensorFlow Lite, and Teachable Machine](https://heartbeat.fritz.ai/image-classification-on-mobile-with-flutter-tensorflow-lite-and-teachable-machine-f7de39598e0c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Labeling in Android with Fritz AI](https://heartbeat.fritz.ai/image-labeling-in-android-with-fritz-ai-de045d4cc997?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - - [How to identify Nigerian dishes using Artificial Intelligence on Android Devices (Part 1)](https://heartbeat.fritz.ai/how-to-identify-nigerian-dishes-using-artificial-intelligence-on-android-devices-part-1-4ca03f1c656a_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Labeling In Android using Google’s On-Device ML Kit](https://heartbeat.fritz.ai/image-labeling-in-android-using-googles-on-device-ml-kit-bbaee3a39c6utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 #### Object Detection
 
